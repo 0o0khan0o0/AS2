@@ -1,0 +1,42 @@
+.bg-image {
+    background-image: url("../img/intro-bg.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+}
+
+.bg-image-2 {
+    background-image: url("../img/register-bg.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+}
+
+
+.hover-1 {
+    position: relative;
+    color: white!important;
+}
+
+.hover-1:hover {
+    color: #7CB6D2!important;
+}
+
+.hover-2 {
+    position: relative;
+    color: black!important;
+    text-decoration: none;
+}
+
+.hover-2:hover {
+    color: #EE5F72!important;
+}
+
+.hover-2:focus {
+    color: #EE5F72!important;
+    border-bottom: gray 1px solid;
+}
